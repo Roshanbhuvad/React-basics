@@ -5,6 +5,10 @@ https://www.freecodecamp.org/news/state-management-in-react-props-vs-context-api
 
 https://dev.to/himanshubaghel07/react-hooks-31mp
 
+# Docker build Process for reactJs Application
+
+https://dev.to/mohammadfaisal/how-i-reduced-docker-image-size-from-143-gb-to-224-mb-53nc
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
